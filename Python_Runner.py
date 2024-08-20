@@ -1,2 +1,0 @@
-import Python_AI_Handdetect
-Python_AI_Handdetect.HandTracking()
